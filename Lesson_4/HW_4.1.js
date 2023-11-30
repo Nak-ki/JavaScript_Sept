@@ -90,7 +90,7 @@ let liQuantity = 3;
 
 let frts = ['orange', 1, 'strawberry', true, 18]
 
-    function lists(frtss) {
+    function lists(frts) {
         let listNmbrs= []
         let listString = []
         let listBool = []
