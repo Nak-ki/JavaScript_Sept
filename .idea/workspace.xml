@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97c5d0b4-14bf-412c-a6dd-383549a6f2a8" name="Changes" comment="Complete tasks fo 2nd lesson">
-      <change afterPath="$PROJECT_DIR$/Lesson_2/Extras.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2/extras.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3/HW_3.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3/HW_3.html" afterDir="false" />
+    <list default="true" id="97c5d0b4-14bf-412c-a6dd-383549a6f2a8" name="Changes" comment="Complete tasks for 3d lesson">
+      <change afterPath="$PROJECT_DIR$/Lesson_4/HW_4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/HW_4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_3/HW_3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_3/HW_3.1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,8 @@
       <workItem from="1700591709763" duration="876000" />
       <workItem from="1700739923800" duration="18609000" />
       <workItem from="1700923682238" duration="5780000" />
-      <workItem from="1701168747566" duration="8582000" />
+      <workItem from="1701168747566" duration="8927000" />
+      <workItem from="1701344616865" duration="18563000" />
     </task>
     <task id="LOCAL-00001" summary="add homework tasks 1-3, and extra.">
       <option name="closed" value="true" />
@@ -97,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700758642546</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Complete tasks for 3d lesson">
+      <option name="closed" value="true" />
+      <created>1701177442115</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701177442115</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +116,19 @@
     <MESSAGE value="add conditions to tasks and console.log in task 4;" />
     <MESSAGE value="add changes in task 4;" />
     <MESSAGE value="Complete tasks fo 2nd lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete tasks fo 2nd lesson" />
+    <MESSAGE value="Complete tasks for 3d lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete tasks for 3d lesson" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Lesson_4/HW_4.1.js</url>
+          <line>3</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

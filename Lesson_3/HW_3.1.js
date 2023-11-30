@@ -127,6 +127,7 @@ for (let j = 0; j < users.length; j++) {
     if (!user.status){
         console.log(user)
     }
+
 }
 for (let j = 0; j < users.length; j++) {
     let user = users[j];
