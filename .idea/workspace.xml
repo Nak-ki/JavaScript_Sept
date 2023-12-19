@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97c5d0b4-14bf-412c-a6dd-383549a6f2a8" name="Changes" comment="fixes in tasks for 4d lesson;&#10;add finished tasks for 5th lesson.">
-      <change afterPath="$PROJECT_DIR$/Lesson_6/HW_6.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_6/HW_6.html" afterDir="false" />
+    <list default="true" id="97c5d0b4-14bf-412c-a6dd-383549a6f2a8" name="Changes" comment="add finished tasks for 6 lesson.">
+      <change afterPath="$PROJECT_DIR$/Lesson_9/HW_9.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_9/HW_9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,8 @@
       <workItem from="1701777941480" duration="11098000" />
       <workItem from="1701892760063" duration="4847000" />
       <workItem from="1701950795413" duration="74000" />
-      <workItem from="1701951036127" duration="8223000" />
+      <workItem from="1701951036127" duration="8971000" />
+      <workItem from="1702984545136" duration="17603000" />
     </task>
     <task id="LOCAL-00001" summary="add homework tasks 1-3, and extra.">
       <option name="closed" value="true" />
@@ -142,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701788097387</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add finished tasks for 6 lesson.">
+      <option name="closed" value="true" />
+      <created>1701959425821</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701959425821</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,7 +177,8 @@
     <MESSAGE value="Complete tasks for 4d lesson" />
     <MESSAGE value="changes in tasks for 4d lesson" />
     <MESSAGE value="fixes in tasks for 4d lesson;&#10;add finished tasks for 5th lesson." />
-    <option name="LAST_COMMIT_MESSAGE" value="fixes in tasks for 4d lesson;&#10;add finished tasks for 5th lesson." />
+    <MESSAGE value="add finished tasks for 6 lesson." />
+    <option name="LAST_COMMIT_MESSAGE" value="add finished tasks for 6 lesson." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -177,6 +187,12 @@
           <url>file://$PROJECT_DIR$/Lesson_4/HW_4.1.js</url>
           <line>3</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Lesson_9/HW_9.1.js</url>
+          <line>281</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
