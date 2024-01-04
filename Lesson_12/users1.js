@@ -8,8 +8,6 @@ fetch('http://jsonplaceholder.typicode.com/users')
     .then (value => value.json())
     .then(users => {
 
-        let ul = document.createElement('ul')
-
         for (const user of users) {
             let a = document.createElement('a')
             a.innerText = `${user.id} ${user.name}`

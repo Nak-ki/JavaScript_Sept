@@ -21,7 +21,7 @@ fetch (`http://jsonplaceholder.typicode.com/users/${id}`)
 
                         pAddress.appendChild(pGeo)
 
-                        let geo = user.address.geo
+                        let geo = user.address[`${userKKey}`]
 
                             for (const geoKey in geo) {
                                 let p = document.createElement('p')
