@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    font-family: 'Indie Flower', cursive;
+}
+
+section {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        background: midnightblue;
+        padding-bottom: 10px;
+        padding-top: 10px ;
+        font-size: 19.48px;
+        color: floralwhite;
+        border-radius: 20px;
+        border: #02023a 1px solid;
+
+
+    }
+
+
+.posts {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        background-color: antiquewhite;
+        gap: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-radius: 20px;
+
+    }
+
+.posts > div {
+    border: #02023a 2px solid;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: 22vh;
+    width: 18vw;
+    border-radius: 8px;
+    background: midnightblue;
+    color: antiquewhite;
+    /*text-decoration-style: solid;*/
+
+}
+
+button{
+    border: #02023a 2px solid;
+    font-size: 15px;
+    font-family: 'Gloria Hallelujah', cursive;
+    background:  antiquewhite;
+    border-radius: 5px;
+}
+
+section>p {
+    margin-bottom: -0.4px;
+}

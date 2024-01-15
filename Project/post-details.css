@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    font-family: 'Indie Flower', cursive;
+}
+
+.post{
+    margin-top: 2vw;
+    margin-left: 2vw;
+    width: 96vw;
+    border: rebeccapurple 2px solid;
+    text-align: center;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    background: #bb6bfc;
+    font-size: 20px;
+    color: whitesmoke;
+
+}
+
+.comments{
+    width: 96vw;
+    margin-left: 2vw;
+    display: flex;
+    gap: 63px;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    /*justify-content: center;*/
+
+}
+
+.comments>div{
+    height: 46vh;
+    width: 21vw;
+    border: rebeccapurple 2px solid;
+    text-align: center;
+    padding: 3px;
+    border-radius: 8px;
+    background: #cb88f8;
+    color: whitesmoke;
+    font-size: 18px;
+
+}
+
+button {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 18px;
+    color: rebeccapurple;
+    border-radius: 5px;
+    border: rebeccapurple 2px solid;
+    background: whitesmoke;
+}
